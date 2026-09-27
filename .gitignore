@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PDF reports (large files, not needed in repo)
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

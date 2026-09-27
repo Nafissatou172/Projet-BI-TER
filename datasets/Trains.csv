@@ -1,0 +1,5 @@
+train_id,capacite,type_train
+T001,400,Express
+T002,350,Standard
+T003,500,Express
+T004,300,Standard

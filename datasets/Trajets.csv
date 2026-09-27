@@ -1,0 +1,5 @@
+trajet_id,train_id,station_depart,station_arrivee,date_trajet,heure_depart,heure_arrivee
+TR001,T001,S001,S002,2025-06-15,08:00,08:45
+TR002,T002,S002,S003,2025-06-15,09:00,09:40
+TR003,T003,S003,S004,2025-06-15,10:00,10:30
+TR004,T004,S001,S003,2025-06-16,07:30,08:50
